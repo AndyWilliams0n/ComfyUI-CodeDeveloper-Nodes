@@ -22,7 +22,7 @@ This is a node to display a text string
 Inputs: STRING
 Outputs: STRING
 
-![menu](misc/menu.jpg)
+![Display Text Node](show-text-node.png)
 
 
 
