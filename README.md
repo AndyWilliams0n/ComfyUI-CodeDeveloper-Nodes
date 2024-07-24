@@ -15,21 +15,32 @@ To install ComfyUI-CodeDeveloper-Nodes in addition to an existing installation o
 
 ## Nodes
 
+### Create Text Node
+
+This is a node to create and output a text string.
+
+Outputs: STRING
+
+
 ### Display Text Node
 
-This is a node to display a text string
+This is a node to display a text string thats inputted, and output the same string for chaining.
 
 Inputs: STRING
 Outputs: STRING
 
-![Display Text Node](show-text-node.png)
+
+### Nodes Gallery
+
+![Display Text Node](nodes.png)
 
 
 
 ## Roadmap
 
-- [x] Node: Show text with passthrough.
-- [ ] Node: Show text with functions (append) with passthrough.
+- [x] Node: Create text with passthrough.
+- [x] Node: Display text with passthrough.
+- [ ] Node: Display text with functions (append & more) with passthrough.
 
 
 # Disclaimer
